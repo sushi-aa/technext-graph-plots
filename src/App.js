@@ -59,7 +59,7 @@ function GraphApp() {
 
   return (
     <div>
-      <h2>Bar Graph</h2>
+      <h2>Bar and Line Graph</h2>
       <Bar data={chartData} options={chartOptions} />
     </div>
   );
